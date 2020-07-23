@@ -9,7 +9,7 @@
   <input type="text" id="wemail" name="wemail"><br><br>
  <label for="psw">Password:</label><br>
   <input type="text" id="psw" name="psw"><br><br>
-  	<label for="country">Country</label><span style="color: red !important; display: inline; float: none;">*</span><br>
+  	  	<label for="country">Country</label><br>
 <select id="country" name="country" class="form-control"><br><br>
 <option value="Afghanistan">Afghanistan</option>
 <option value="Åland Islands">Åland Islands</option>
